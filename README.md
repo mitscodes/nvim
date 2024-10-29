@@ -67,7 +67,7 @@ Configured via **Mason** for the following languages:
 - **Go**: `gopls`
 - **Rust**: `rust_analyzer`
 - **HTML/CSS**: `html`, `cssls`, `tailwindcss`
-- **Lua**: `sumneko_lua`
+- **Lua**: `ast_grep`
 - **Java**: `jdtls`
 - **C/C++**: `ccls`
 - **C#**: `csharp_ls`
