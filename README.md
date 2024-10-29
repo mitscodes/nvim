@@ -69,7 +69,7 @@ Configured via **Mason** for the following languages:
 - **HTML/CSS**: `html`, `cssls`, `tailwindcss`
 - **Lua**: `ast_grep`
 - **Java**: `jdtls`
-- **C/C++**: `ccls`
+- **C/C++**: `ast_grep`
 - **C#**: `csharp_ls`
 - **PHP**: `phpactor`
 - **Ruby**: `solargraph`
