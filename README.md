@@ -63,7 +63,7 @@ Launch Neovim and run:
 ### **LSP Servers**
 Configured via **Mason** for the following languages:
 - **Python**: `pyright`
-- **JavaScript/TypeScript**: `tsserver`
+- **JavaScript/TypeScript**: `ts_ls`
 - **Go**: `gopls`
 - **Rust**: `rust_analyzer`
 - **HTML/CSS**: `html`, `cssls`, `tailwindcss`
