@@ -17,7 +17,7 @@ return {
 				cpp = { "clang_format" },
 				c_sharp = { "clang_format" },
 				php = { "phpcsfixer" },
-				go = { "gofmt" },
+				go = { "gofumpt" },
 				python = { "black" },
 				rust = { "rustfmt" },
 				ruby = { "rubocop" },
